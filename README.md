@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Waz (W4Z-RAW)
+#  Hi, I’m Waz (W4Z-RAW)
 
 💻 **Cybersecurity Student | Linux Enthusiast | Ethical hacker
+---
 I’m passionate about **network security, automation, and vulnerability labs**.  
 Currently learning **vulnerability detection**, **hardening with SCAP**, and **ethical hacking**.
 
