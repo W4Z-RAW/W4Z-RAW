@@ -19,8 +19,8 @@ Currently learning **vulnerability detection**, **hardening with SCAP**, and **e
 
 ### 🧠 Skills
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Linux](https://img.shields.io/badge/Linux-Debian%20|%20Fedora-orange?logo=linux)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
+![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-orange?logo=linux)
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-red?logo=proxmox)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github)
 ![Security](https://img.shields.io/badge/Security-CVE%20Analysis-green)
 
