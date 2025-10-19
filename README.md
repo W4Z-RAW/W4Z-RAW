@@ -1,23 +1,19 @@
 # 👋 Hi, I’m Waz (W4Z-RAW)
 
 💻 **Cybersecurity Student | Linux Enthusiast | Ethical hacker
-
----
-
-### 🧩 About Me
 I’m passionate about **network security, automation, and vulnerability labs**.  
 Currently learning **vulnerability detection**, **hardening with SCAP**, and **ethical hacking**.
 
 ---
 
-### 🚀 Current Projects
-- 🔒 [CVE-2021-36934 (SeriousSAM)](https://github.com/W4Z-RAW/CVE-2021-36934) — Windows SAM local privilege escalation (LPE)
-- 🧰 SCAP Lab — Automated CIS security audit & remediation
-- 🌐 WireGuard VPN — Secure connection to remote Proxmox labs
+###  Current Projects
+-  [CVE-2021-36934 (SeriousSAM)](https://github.com/W4Z-RAW/CVE-2021-36934) — Windows SAM local privilege escalation (LPE)
+-  SCAP Lab — Automated CIS security audit & remediation
+-  WireGuard VPN — Secure connection to remote Proxmox labs
 
 ---
 
-### 🧠 Skills
+###  Skills
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-orange?logo=linux)
 ![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-red?logo=proxmox)
@@ -26,14 +22,14 @@ Currently learning **vulnerability detection**, **hardening with SCAP**, and **e
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ![Profile views](https://komarev.com/ghpvc/?username=W4Z-RAW&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/W4Z-RAW?label=Follow&style=social)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W4Z-RAW&layout=compact&theme=github_dark)
 
 ---
 
-### 📫 Contact
+###  Contact
 🔗 [github.com/W4Z-RAW](https://github.com/W4Z-RAW)
 
 ---
